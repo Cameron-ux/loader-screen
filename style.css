@@ -28,7 +28,7 @@ body {
   }
   
   span:first-child {
-    background-color: #ff414d;
+    background-color: #8181F7;
   }
   
   span:first-child::before {
@@ -36,7 +36,7 @@ body {
   }
   
   span:nth-child(2) {
-    background-color: #ff7a00;
+    background-color: #2E2EFE;
     transform: scale(0.9);
   }
   
@@ -45,7 +45,7 @@ body {
   }
   
   span:nth-child(3) {
-    background-color: #28df99;
+    background-color: #0101DF;
     transform: scale(0.8);
   }
   
@@ -54,7 +54,7 @@ body {
   }
   
   span:nth-child(4) {
-    background-color: #81b214;
+    background-color: #08088A;
     transform: scale(0.7);
   }
   
@@ -63,7 +63,7 @@ body {
   }
   
   span:last-child {
-    background-color: #f09ae9;
+    background-color: #0B0B61;
     transform: scale(0.6);
   }
   
